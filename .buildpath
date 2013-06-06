@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry excluding="&apos;**&apos;.settings|**/.git/**|**/.settings/**|*.settings|*settings|.buildpath|.project|.settings|.settings/" including="ejemplo-complejo/|ejemplo-simple/" kind="src" path=""/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
